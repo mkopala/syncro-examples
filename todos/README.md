@@ -4,14 +4,6 @@ This is a partial implementation of the [Todo MVC](http://addyosmani.github.com/
 
 It adds automatic client-side persistence & client-server synchronization.
 
-Requirements
-------------
-
-* MongoDB
-* Redis
-* node.js
-* CoffeeScript
-
 DB Initialization
 -----------------
 
