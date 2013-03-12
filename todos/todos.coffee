@@ -15,9 +15,6 @@ Todo = Backbone.Model.extend(
 )
 ###
 
-window.sync = new InSync()
-sync.init()
-
 class TodoListColl extends Backbone.Collection
 	model: Todo
 	done: ->
