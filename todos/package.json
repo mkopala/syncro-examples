@@ -1,0 +1,22 @@
+{
+  "name": "syncro-todo-example",
+  "author": "Matt Kopala <mkopala@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/mkopala/syncro-examples.git"
+  },
+  "version": "0.0.1",
+  "description": "Todos MVC example implemented using Syncro JS framework",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "dependencies": {
+    "syncro": "~0.0.1",
+    "coloured-log": "~0.9.7",
+    "connect-assets": "~2.4.0",
+    "connect-redis": "~1.4.5",
+    "jade": "~0.28.2",
+    "express": "~3.1.0",
+    "stylus": "~0.32.1"
+  },
+  "private": "true"
+}

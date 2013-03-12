@@ -1,0 +1,1 @@
+node_modules/.bin/syncro-dbutil -s ./schema -d todos $@
