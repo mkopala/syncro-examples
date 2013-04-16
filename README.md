@@ -13,9 +13,14 @@ Requirements
 * [node.js](https://github.com/joyent/node/wiki/Installing-Node.js-via-package-manager)
 * CoffeeScript
 
-Ubuntu Quick setup
+Quick setup
 ------------------
 
-Add MongoDB source & key, adds node.js PPA repository, installs MongoDB, Redis, node.js, npm, and coffeescript
+Add MongoDB source & key, adds node.js PPA repository, installs MongoDB, Redis, node.js, npm, and coffeescript & dependencies.  On ubuntu -
 
-    make packages
+    make ubuntu-setup
+
+On osx -
+
+    make osx-setup
+
